@@ -22,5 +22,15 @@
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-<img height="52" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"/>
+<img height="50" src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+          
+          
+### :star: Statistics on Github
+<hr>
+<div>
+<a href="https://github.com/emanuellepaulino">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellepaulino&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellepaulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
