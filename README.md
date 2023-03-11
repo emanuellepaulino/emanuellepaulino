@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Emanuelle G. Paulino</h1>
+<p align="center">
+  <img src=https://user-images.githubusercontent.com/108027884/224457392-27c73ecd-3723-4bc0-bbf5-1ecab5c2d10b.gif>
+</p>
+
 <h3 align="center">Welcome to my Github profile</h3>
 
 <h3 align="left">Connect with me:</h3>
