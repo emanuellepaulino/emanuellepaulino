@@ -1,8 +1,4 @@
-<p align="center">
-  <img src=https://user-images.githubusercontent.com/108027884/224457392-27c73ecd-3723-4bc0-bbf5-1ecab5c2d10b.gif>
-</p>
-
-<h3 align="center">Welcome to my Github profile</h3>
+![Capa_GitHub](https://user-images.githubusercontent.com/108027884/224459676-133b1874-251e-41f5-b2cf-e0d2a6b86348.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
