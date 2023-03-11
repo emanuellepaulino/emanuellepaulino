@@ -30,7 +30,7 @@
 <hr>
 <div>
 <a href="https://github.com/emanuellepaulino">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellepaulino&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuellepaulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellepaulino&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=emanuellepaulino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
           
 ![where_to_find_me](https://user-images.githubusercontent.com/108027884/224503353-7b5a6bdf-f4d9-42ac-8c3a-589d42f1bf67.png)
